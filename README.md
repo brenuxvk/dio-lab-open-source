@@ -1,8 +1,8 @@
 # Meu Profile README
 
-- **Nome:** [Lucas Breno]
-- **LinkedIn:** [https://www.linkedin.com/in/lucas-breno-da-cruz-santos-47505a347/]
-- **GitHub:** [https://github.com/brenuxvk]
+- **Nome:** Lucas Breno
+- **LinkedIn:** https://www.linkedin.com/in/lucas-breno-da-cruz-santos-47505a347/
+- **GitHub:**https://github.com/brenuxvk
 - **Tecnologias que uso:**
   - Python
 - **Sobre mim:**
